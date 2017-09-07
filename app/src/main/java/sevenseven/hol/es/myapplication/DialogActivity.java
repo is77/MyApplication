@@ -80,7 +80,7 @@ public class DialogActivity extends Activity {
     }
 
     //失敗
-    private void loseDialog() {
+    private void lose111Dialog() {
         String option[] = {"繼續遊戲", "回首頁", "前往圖鑑"};
 
         AlertDialog.Builder builder = new Builder(context);
